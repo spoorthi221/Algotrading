@@ -6,6 +6,8 @@ Fetch historical stock data using yfinance.
 Calculate and visualize technical indicators such as Moving Averages.
 Perform exploratory analysis with matplotlib and seaborn.
 [Optional if applicable] Integrate machine learning models for stock price prediction.
+
+
 [Optional] Backtest strategies for performance evaluation.
 Future Scope:
 Add advanced indicators (e.g., RSI, Bollinger Bands, MACD).
